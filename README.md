@@ -1,5 +1,5 @@
 ## Bytes Splitter
 
 The animation:
-<video controls src="media/videos/bytes/1080p60/join.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/4988371c-e8b6-45ed-a403-cfdaeb9ce5b9
 
